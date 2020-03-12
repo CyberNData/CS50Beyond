@@ -14,3 +14,6 @@ def seeya():
 
 def ok():
     print("ok")
+
+def wow():
+    print("wow")
