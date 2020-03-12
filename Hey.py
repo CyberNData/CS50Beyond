@@ -8,3 +8,9 @@ def bye():
 
 def maple():
     print("Maple")
+
+def seeya():
+    print("Bie bonjour")
+
+def ok():
+    print("ok")
