@@ -18,3 +18,6 @@ def ok():
 def wow():
     print(" w..w..wowzer")
 
+if (2>3):
+    def some():
+        print("some")
