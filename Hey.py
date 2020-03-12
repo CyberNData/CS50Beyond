@@ -16,4 +16,5 @@ def ok():
     print("ok")
 
 def wow():
-    print("w")
+    print(" w..w..wowzer")
+
