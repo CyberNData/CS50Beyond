@@ -5,3 +5,6 @@ def greet():
 
 def bye():
     print("Bye")
+
+def maple():
+    print("Maple")
